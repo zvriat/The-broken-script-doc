@@ -1,0 +1,15 @@
+h2{
+    font-family: Minecraft;
+    color: white;
+    padding-left: 600px;
+    padding-right: 600px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+
+@font-face {
+    font-family: Minecraft;
+    src: url(/fonts/MinecraftRegular-Bmg3.ttf);
+}

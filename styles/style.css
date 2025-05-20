@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    background: black;
+    padding: 25px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+nav ul li {
+    display: block;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 5 5rem;
+    display: block;
+    font-family: "Lexend Deca", sans-serif;
+}
+nav ul li a:hover{
+    background-color: #ff0000;
+    border-radius: 5px;
+    
+}
+
+
+@font-face {
+    font-family: Minecraft;
+    src: url(/fonts/MinecraftRegular-Bmg3.ttf);
+}
+
+body {
+    background-image: url(/imgs/cc-1920x1080.png);
+    
+}
+h2{
+    color: white;
+    font-family: Minecraft;
+    padding-left: 45px;
+}
+
+
+
+
